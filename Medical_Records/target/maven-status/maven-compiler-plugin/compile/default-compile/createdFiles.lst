@@ -1,0 +1,8 @@
+com\mycompany\medical_records\Medical_Records.class
+com\mycompany\medical_records\Patient_Manager.class
+com\mycompany\medical_records\Bed.class
+com\mycompany\medical_records\In_Patient.class
+com\mycompany\medical_records\Medical_Records$PatientCategory.class
+com\mycompany\medical_records\Patient$PatientCategory.class
+com\mycompany\medical_records\Patient.class
+com\mycompany\medical_records\Ward.class
